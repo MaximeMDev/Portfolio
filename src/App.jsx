@@ -66,7 +66,7 @@ function App() {
           <div className="relative">
             <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-full blur opacity-25"></div>
             <img
-              src="./pp.jpg"
+              src="./pp.png"
               alt="Maxime"
               className="relative rounded-full border-2 border-slate-800 w-40 h-40 object-cover"
             />
