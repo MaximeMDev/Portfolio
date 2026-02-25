@@ -13,7 +13,7 @@ function App() {
     {
       id: 4,
       name: "Klivio",
-      image: "./src/assets/klivio.png",
+      image: "./klivio.png",
       desc: "C'est le premier projet étudiant sur lequel j'ai travaillé, en solo. C'est la reproduction d'une maquette donnée, en HTML CSS dans un premier temps, puis en HTML Tailwind CSS avec un style libre pour la deuxième.",
       site: "https://maximemdev.github.io/Klivio-Integration/htmlcss/index.html",
       github: "https://github.com/MaximeMDev/Klivio-Integration",
@@ -22,7 +22,7 @@ function App() {
     {
       id: 3,
       name: "My-cinema",
-      image: "./src/assets/mycinema.png",
+      image: "./mycinema.png",
       desc: "Projet étudiant, interface administrative d'un gérant de cinéma, backend et frontend.",
       site: "#",
       github: "https://github.com/MaximeMDev/my-cinema",
@@ -31,7 +31,7 @@ function App() {
     {
       id: 2,
       name: "Générateur de CV",
-      image: "./src/assets/cvgenerator.png",
+      image: "./cvgenerator.png",
       desc: "Projet étudiant, générateur de CV interactif avec rendu en direct, HTML CSS PHP.",
       site: "#",
       github: "https://github.com/MaximeMDev/generateur-de-cv",
@@ -40,7 +40,7 @@ function App() {
     {
       id: 1,
       name: "Willypedia",
-      image: "./src/assets/willypedia.png",
+      image: "./willypedia.png",
       desc: "Un site vitrine réalisé lors d'une initiation nommée BTech par l'association Z Code pour l'emploi.",
       site: "https://maximemdev.github.io/WillyPedia/home.html",
       github: "https://github.com/MaximeMDev/WillyPedia",

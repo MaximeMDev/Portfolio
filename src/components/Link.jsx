@@ -9,7 +9,7 @@ const Links = () => {
         className="transform transition-all duration-300 hover:scale-110 hover:drop-shadow-[0_0_8px_rgba(34,211,238,0.8)]"
       >
         <img
-          src="./src/assets/github.png"
+          src="./github.png"
           className="w-12 h-12 object-contain"
           alt="Lien vers Github"
         />
@@ -23,7 +23,7 @@ const Links = () => {
         className="transform transition-all duration-300 hover:scale-110 hover:drop-shadow-[0_0_8px_rgba(34,211,238,0.8)]"
       >
         <img
-          src="./src/assets/linkedin.png"
+          src="./linkedin.png"
           className="w-12 h-12 object-contain"
           alt="Lien vers Linkedin"
         />
