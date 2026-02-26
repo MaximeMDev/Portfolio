@@ -4,6 +4,7 @@ import MenuBurger from "./components/MenuBurger";
 import Links from "./components/Link";
 import ContactUs from "./components/MailForm";
 import ScrollToTop from "./components/ScrollToTop";
+import maximeCV from "/MaximeCV.pdf";
 
 function App() {
   const [selectedProject, setSelectedProject] = useState(null);
@@ -152,7 +153,7 @@ function App() {
               numériques performants et minimalistes."
             </p>
             <a
-              href="./MaximeCV.pdf"
+              href={maximeCV}
               download="MaximeCV.pdf"
               target="_blank"
               rel="noreferrer"
