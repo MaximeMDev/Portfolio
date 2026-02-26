@@ -4,7 +4,8 @@ import MenuBurger from "./components/MenuBurger";
 import Links from "./components/Link";
 import ContactUs from "./components/MailForm";
 import ScrollToTop from "./components/ScrollToTop";
-import cvFile from "../public/MaximeCV.pdf";
+import resumePDF from "/MaximeCV.pdf?url";
+
 function App() {
   const [selectedProject, setSelectedProject] = useState(null);
   const [showOfflineModal, setShowOfflineModal] = useState(false);
@@ -152,11 +153,11 @@ function App() {
               numériques performants et minimalistes."
             </p>
             <a
-              href={cvFile}
+              href={resumePDF}
               download="MaximeCV.pdf"
               target="_blank"
               rel="noreferrer"
-              className="..."
+              className="mt-6 self-center px-6 py-2 border border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400/10 hover:shadow-[0_0_15px_rgba(34,211,238,0.3)] transition-all duration-300"
             >
               Télécharger mon CV
             </a>
