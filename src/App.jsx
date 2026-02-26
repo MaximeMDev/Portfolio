@@ -152,7 +152,7 @@ function App() {
               numériques performants et minimalistes."
             </p>
             <a
-              href="/MaximeCV.pdf"
+              href="./MaximeCV.pdf"
               download="MaximeCV.pdf"
               target="_blank"
               rel="noreferrer"
