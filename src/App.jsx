@@ -152,13 +152,14 @@ function App() {
               numériques performants et minimalistes."
             </p>
             <a
-              href="./MaximeCV.pdf"
-              download="./MaximeCV.pdf"
+              href="/MaximeCV.pdf"
+              download="CV_Maxime_Mortelec.pdf"
               target="_blank"
+              rel="noopener noreferrer"
               className="mt-6 self-center px-6 py-2 border border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400/10 hover:shadow-[0_0_15px_rgba(34,211,238,0.3)] transition-all duration-300"
             >
               Télécharger mon CV
-            </a>
+            </a>{" "}
           </div>
         </section>
 
