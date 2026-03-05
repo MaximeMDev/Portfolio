@@ -4,7 +4,7 @@ import MenuBurger from "./components/MenuBurger";
 import Links from "./components/Link";
 import ContactUs from "./components/MailForm";
 import ScrollToTop from "./components/ScrollToTop";
-import resumePDF from "/MaximeCV.pdf?url";
+import resumePDF from "/CV_Maxime_Mortelec.pdf?url";
 
 function App() {
   const [selectedProject, setSelectedProject] = useState(null);
