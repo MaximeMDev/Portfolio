@@ -152,7 +152,7 @@ function App() {
               numériques performants et minimalistes."
             </p>
             <a
-              href="/CV_Maxime_Mortelec.pdf"
+              href={`${import.meta.env.BASE_URL}CV_Maxime_Mortelec.pdf`}
               download="CV_Maxime_Mortelec.pdf"
               target="_blank"
               rel="noreferrer"
