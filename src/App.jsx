@@ -73,7 +73,7 @@ function App() {
           </div>
           <div className="space-y-2">
             <p className="text-cyan-400 font-mono text-sm">
-              Bonjour, je m'appel
+              Bonjour, je m'appelle
             </p>
             <h2 className="text-5xl font-extrabold text-white">
               Maxime Mortelec
